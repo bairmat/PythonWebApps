@@ -16,7 +16,12 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from hero.views import MainView, HulkView, IronManView, BlackWidowView
+
 
 urlpatterns = [
-    path('admin/', admin.site.urls),
+    path('',        MainView.as_view()),
+    path('hulk',        HulkView.as_view()),
+    path('ironman',        IronManView.as_view()),
+    path('blackwidow',        BlackWidowView.as_view()),
 ]
