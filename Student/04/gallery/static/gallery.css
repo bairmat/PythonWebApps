@@ -1,0 +1,15 @@
+h1 {
+  color: rgb(40, 74, 223);
+}
+body {
+  color: darkgrey;
+}
+
+.header {
+  text-align: center;
+}
+
+.photo {
+  margin: 2em;
+  border-radius: 10px;
+}
