@@ -1,0 +1,62 @@
+[
+{
+    "model": "hero.superhero",
+    "pk": 5,
+    "fields": {
+        "name": "Iron Man",
+        "identity": "Tony Stark",
+        "description": "Genius billionaire playboy philanthropist",
+        "image": "None",
+        "strengths": "Armored Suit",
+        "weaknesses": "no powers"
+    }
+},
+{
+    "model": "hero.superhero",
+    "pk": 7,
+    "fields": {
+        "name": "Spider-Man",
+        "identity": "Peter Parker",
+        "description": "Web-Slinger",
+        "image": "None",
+        "strengths": "Web-Slinging",
+        "weaknesses": "None"
+    }
+},
+{
+    "model": "hero.superhero",
+    "pk": 8,
+    "fields": {
+        "name": "Black widow",
+        "identity": "Natasha Romanoff",
+        "description": "Badass martial artist assassin",
+        "image": "None",
+        "strengths": "Training",
+        "weaknesses": "No powers"
+    }
+},
+{
+    "model": "hero.superhero",
+    "pk": 9,
+    "fields": {
+        "name": "Flash",
+        "identity": "Barry Allen",
+        "description": "Fastest Man Alive",
+        "image": "None",
+        "strengths": "Super Speed",
+        "weaknesses": "Immature"
+    }
+},
+{
+    "model": "hero.superhero",
+    "pk": 10,
+    "fields": {
+        "name": "Hulk",
+        "identity": "Bruce Banner",
+        "description": "Strongest Man Alive",
+        "image": "None",
+        "strengths": "Super Strength",
+        "weaknesses": "Angry"
+    }
+}
+]
